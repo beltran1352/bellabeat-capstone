@@ -1,0 +1,4 @@
+segment_id,n_users,avg_steps,avg_sedentary_min,avg_very_active_min,avg_minutes_asleep,segment_label
+2,8,11501,950,55.7,361,Active Achievers
+1,10,8298,738,11.9,432,Steady Movers
+3,15,4877,1200,7,374,Sedentary Sliders
