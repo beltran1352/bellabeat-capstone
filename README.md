@@ -2,7 +2,7 @@
 
 Behavioral segmentation of Fitbit smart-device users to inform marketing strategy for Bellabeat — a women's wellness tech company. Completed as the capstone for the Google Data Analytics Professional Certificate.
 
-**Live interactive dashboard:** [Tableau Public](https://public.tableau.com/app/profile/jonathan.beltran8674/viz/BellabeatUserSegmentation/Dashboard1)
+**Live interactive dashboard:** [Tableau Public](https://public.tableau.com/views/BellabeatUserSegmentation11/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
